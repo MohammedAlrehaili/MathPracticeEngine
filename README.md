@@ -63,7 +63,7 @@ Choose operation:
 4) Div
 5) Mix
 
-Question [1/5]:w
+Question [1/5]:
 8 + 6 = ?
 > 14
 Correct!
